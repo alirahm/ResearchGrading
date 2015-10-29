@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.mcpat.slf4j:slf4cldc-nop:1.6.0" type="repository">
+    <properties maven-id="com.github.mcpat.slf4j:slf4cldc-nop:1.6.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/slf4cldc-nop-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4cldc-api-1.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cldc-1.1-stub-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

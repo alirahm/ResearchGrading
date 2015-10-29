@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="java" />
+  <library name="com.joestelmach:natty:0.12">
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/natty-0.12.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/antlr-runtime-3.5.2.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/ical4j-1.0.2.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/commons-logging-1.1.1.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/commons-codec-1.5.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/commons-lang-2.6.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/backport-util-concurrent-3.1.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/slf4j-api-1.7.10.jar" />
+  </library>
+  <library name="com.github.mcpat.slf4j:slf4cldc-nop:1.6.0">
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/slf4cldc-nop-1.6.0.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/slf4cldc-api-1.6.0.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/cldc-1.1-stub-1.0.jar" />
+  </library>
+  <library name="com.fsist:safepickle-joda-time_2.11:0.3.0">
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/safepickle-joda-time_2.11-0.3.0.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/scala-compiler-2.11.4.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/scala-library-2.11.4.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/scala-reflect-2.11.4.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/scala-xml_2.11-1.0.2.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/scala-parser-combinators_2.11-1.0.2.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/commons-codec-1.10.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/slf4j-api-1.7.6.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/scala-logging_2.11-3.1.0.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/joda-convert-1.7.jar" />
+    <archive path="/Users/ali1/IdeaProjects/ResearchGrading/lib/joda-time-2.7.jar" />
+  </library>
+</eclipse-userlibraries>
+

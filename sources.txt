@@ -1,0 +1,135 @@
+8
+gov
+dept
+department
+government
+congress
+senate
+senator
+governor
+city
+state
+raw data
+fbi
+cia
+federal
+bill
+minister
+Barack
+obama
+john kerry
+raul castro
+nato
+united nations
+chamber of commerce
+environmental protection agency
+secretary of commerce
+secretary of labor
+ EPA
+-
+7
+university
+college
+Harvard
+Stanford
+Princeton
+Yale
+University of Illinois
+University of Michigan
+University of Chicago
+University of California, Berkeley
+Yale
+Dartmouth
+Brown
+University of Pennsylvania
+Cornell
+Columbia
+Northwestern 
+Duke
+MIT
+Massachusetts Institute of Technology
+Northwestern
+professor
+teacher
+scholar
+U of
+edu
+lawyer
+medical
+law
+school
+-
+6
+cato
+brookings
+carnegie endowment for international peace
+pew research center
+pew research
+pew
+council on foreign relations
+foreign policy
+congressional research service
+congressional budget office
+chatham house
+RAND corporation
+center for strategic and international studies
+CSIS
+Amnesty international
+Transparency international
+international crisis group
+peterson institute for international economics
+german institute for international and security affairs
+international institute for strategic studies
+IISS
+heritage foundation
+american enterprise institute
+adam smith institute
+human rights watch
+carnegie moscow center
+institute
+-
+5
+new york times
+wall street journal
+washington post
+the economist
+bloomberg
+bloomberg businessweek
+npr
+bbc
+reuters
+pbs
+cspan
+the independent
+times
+al jazeera
+forbes
+fortune
+the guardian
+guardian
+times magazine
+time
+-
+4
+wikipedia
+wikinews
+investopedia
+-
+3
+al jazeera
+cnn
+-
+2
+huffington post
+fox news
+fox
+mother jones
+-
+1
+debate.com
+debate.org
+convinceme
+-
+0
+
+-

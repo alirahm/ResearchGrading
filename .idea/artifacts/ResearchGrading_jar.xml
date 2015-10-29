@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="ResearchGrading:jar">
+    <output-path>$USER_HOME$/Products</output-path>
+    <root id="root">
+      <element id="archive" name="ResearchGrading.jar">
+        <element id="module-output" name="ResearchGrading" />
+        <element id="library" level="project" name="com.fsist:safepickle-joda-time_2.11:0.3.0" />
+        <element id="library" level="project" name="com.github.mcpat.slf4j:slf4cldc-nop:1.6.0" />
+        <element id="library" level="project" name="com.joestelmach:natty:0.12" />
+        <element id="library" level="project" name="java" />
+      </element>
+    </root>
+  </artifact>
+</component>
